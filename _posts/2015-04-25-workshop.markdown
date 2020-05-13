@@ -1,6 +1,6 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
+title:  "Into The Wild"
+subtitle: "जगणं समृध्द करणारा अनुभव"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
